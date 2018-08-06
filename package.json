@@ -4,10 +4,10 @@
   "private": true,
   "dependencies": {
     "@acamica/task": "0.4.0-rc-2",
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
+    "react": "16.4.0",
+    "react-dom": "16.4.0",
     "react-scripts-ts": "2.16.0",
-    "rxjs": "^6.2.2"
+    "rxjs": "6.2.1"
   },
   "scripts": {
     "start": "react-scripts-ts start",
