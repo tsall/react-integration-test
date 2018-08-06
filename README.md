@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/tsall/react-integration-test.svg?branch=master)](https://travis-ci.com/tsall/react-integration-test)
+
 react-integration-test
 =======================
 
