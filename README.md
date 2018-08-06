@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/tsall/react-integration-test.svg?branch=master)](https://travis-ci.com/tsall/react-integration-test)
+[![Build Status](https://travis-ci.com/tsall/react-integration-test.svg?branch=master)](https://travis-ci.com/tsall/react-integration-test) [![Greenkeeper badge](https://badges.greenkeeper.io/tsall/react-integration-test.svg)](https://greenkeeper.io/)
 
 react-integration-test
 =======================
