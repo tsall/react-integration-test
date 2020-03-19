@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@acamica/task": "0.4.0-rc-2",
-    "react": "16.4.2",
+    "react": "16.13.1",
     "react-dom": "16.4.2",
     "react-scripts-ts": "3.1.0",
     "rxjs": "6.2.2"
